@@ -1,0 +1,93 @@
+dimension,index,selected,categorie
+Brand,1,0,
+Virtual page URL,2,0,
+Page name,3,0,
+Language,4,0,
+Country,5,0,
+Site type level 1,6,0,
+site type level 2,7,0,
+Vehicle model body style,8,0,
+Vehicle model body style label,9,1,véhicule
+Vehicle ID,10,0,
+Vehicle doors number,11,1,véhicule
+Vehicle seats number,12,1,véhicule
+Vehicle CO2,13,0,
+Vehicle discount,14,0,
+Vehicle fuel,15,1,véhicule
+Vehicle version ID,16,0,
+Car version Id,17,0,
+Vehicle finition,18,0,
+Vehicle finition label,19,1,configuration
+Vehicle motor,20,0,
+Vehicle motor label,21,1,véhicule
+Vehicle gear box,22,0,
+Vehicle gear box label,23,0,
+Vehicle conception base,24,0,
+Vehicle conception base label,25,0,
+Vehicle conception client,26,0,
+Vehicle conception client label,27,0,
+Vehicle maj dev Index,28,0,
+Vehicle maj dev index label,29,0,
+Vehicle min dev Index,30,0,
+Vehicle min dev Index label,31,0,
+Vehicle ext cladding,32,0,
+Vehicle ext cladding label,33,0,
+Vehicle body color,34,0,
+Vehicle body colo label,35,1,configuration
+Vehicle int cladding,36,0,
+Vehicle int cladding label,37,0,
+Vehicle color filling,38,0,
+Vehicle color filling label,39,0,
+Vehicle price catalogue,40,0,
+Vehicle price catalogue currency,41,0,
+Vehicle price final,42,0,
+Vehicle price final currency,43,0,
+Vehicle registration,44,0,
+Vehicle km,45,0,
+Vehicle km rent,46,0,
+Km format,47,0,
+Vehicle accessories selected,48,0,
+Scoring visit,49,1,client
+Edealer name,50,1,concessionnaire
+Edealer site geo,51,0,
+Edealer ID,52,0,
+Edealer city,53,1,concessionnaire
+Edealer ID local,54,0,
+Edealer address,55,0,
+Edealer postal code,56,0,
+Edealer region,57,1,concessionnaire
+Edealer PDV,58,0,
+Edealer country,59,1,concessionnaire
+UI gender,60,1,client
+UI postal code,61,0,
+UI city,62,1,client
+UI logged,63,0,
+UI state,64,1,client
+UI birthday,65,1,client
+UI expected purchase,66,0,
+Forms lead ID,67,0,
+Forms lead type,68,1,formulaire
+Forms kind,69,0,
+Forms name,70,0,
+Newsletter optin,71,1,client
+Partner optin,72,0,
+Callback time slot,73,0,
+Internal search keyword,74,0,
+Internal search type,75,0,
+Accessory quantity,76,0,
+Accessory tax,77,0,
+Accessory total order value,78,0,
+Accessory transaction ID,79,0,
+Accessory shipping cost,80,0,
+Accessory shipping type,81,0,
+Accessory currency code,82,0,
+Accessory SKU,83,0,
+Accessory designation,84,0,
+Accessory comp designation,85,0,
+Accessory business name,86,1,configuration
+Accessory product category slevel,87,0,
+Accessory product category level,88,0,
+Accessory product price,89,0,
+Main step indicator,90,0,
+Main step name,91,0,
+Range,92,0,

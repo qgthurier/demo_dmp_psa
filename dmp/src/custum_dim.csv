@@ -10,7 +10,7 @@ vehicleModelBodyStyle,ga:dimension8,0,,
 vehicleModelBodyStyleLabel,ga:dimension9,1,configuration,véhicule
 vehicleId,ga:dimension10,0,,
 vehicleDoorsNumber,ga:dimension11,1,configuration,véhicule
-vehicleSeatsNumber,ga:dimension12,1,configuration,véhicule
+vehicleSeatsNumber,ga:dimension12,0,configuration,véhicule
 vehicleCO2,ga:dimension13,0,,
 vehicleDiscount,ga:dimension14,0,,
 vehicleFuel,ga:dimension15,1,configuration,véhicule
@@ -69,12 +69,12 @@ formsLeadId,ga:dimension67,1,formulaire,
 formsLeadType,ga:dimension68,1,formulaire,
 formsKind,ga:dimension69,1,formulaire,
 formsName,ga:dimension70,1,formulaire,
-NewsletterOptin,ga:dimension71,1,client,
+newsletterOptin,ga:dimension71,1,client,
 partnerOptin,ga:dimension72,0,,
 callbackTimeSlot,ga:dimension73,0,,
 internalSearchKeyword,ga:dimension74,0,,
 internalSearchType,ga:dimension75,0,,
-accessoryQuantity,ga:dimension76,1,configuration,accessoire
+accessoryQuantity,ga:dimension76,0,configuration,accessoire
 accessoryTax,ga:dimension77,0,,
 accessoryTotalOrderValue,ga:dimension78,0,,
 accessoryTransactionId,ga:dimension79,0,,
